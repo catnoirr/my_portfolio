@@ -57,6 +57,7 @@
     margin-bottom: 0;
   }
   article {
+    
     font-size: 1rem;
   }
   footer nav {
@@ -67,6 +68,9 @@
   .contact-info-upper-container,
   .btn-container {
     flex-wrap: wrap;
+  }
+  .about-containers{
+    flex-direction: column;
   }
   .contact-info-container {
     margin: 0;
